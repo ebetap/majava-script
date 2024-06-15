@@ -1,4 +1,6 @@
-Certainly! Let's expand further on the flow and concept, adding more detail to our approach of modeling the Majapahit government in JavaScript using ES2024 classes.
+### Can we implement majapahit goverment system in Oject Oriented Programing?
+
+Let's expand further on the flow and concept, adding more detail to our approach of modeling the Majapahit government in JavaScript using ES2024 classes.
 
 ### Enhanced Flow and Concept: Modeling the Majapahit Government in JavaScript
 
